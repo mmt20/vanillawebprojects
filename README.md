@@ -1,6 +1,6 @@
 # Web Projects With Vanilla JavaScript
 
-This is the main repository for all of the projects in the course.
+This website was created during a [udemy course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) to help me practice my frontend web development skills.
 
 |  #  |                                                Project                                                 |                                   Live Demo                                   |
 | :-: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
